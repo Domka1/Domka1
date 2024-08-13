@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/4H6rPUy3r)]
+[![](https://pin.it/4H6rPUy3r)]
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">I work with Photoshop and GFX projects, as well as design work.</h3>
 
