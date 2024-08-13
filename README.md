@@ -1,4 +1,4 @@
-<img ([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges))]
+[![MasterHead](https://pin.it/4H6rPUy3r)]
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">I work with Photoshop and GFX projects, as well as design work.</h3>
 
