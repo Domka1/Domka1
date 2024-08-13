@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">I work with Photoshop and GFX projects, as well as design work.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNqMjNpeDlnMnd4ajZ0enA5NWN0Y2JoeDM1OWxlM2MxYjg3cnZyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=domka1" alt="domka1" /></a> </p>
 
