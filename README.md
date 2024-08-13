@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/1SsOzF71w)
+[![MasterHead]([https://pin.it/1SsOzF71w](https://pin.it/1SsOzF71w)](https://cdn.discordapp.com/attachments/1210699240272297994/1272951577275269210/atsisiusti.gif?ex=66bcd80a&is=66bb868a&hm=dac85e91bf1c5daa9440d900fa8bbf5078dfccc7d10e07548f7995e33ce7cbc2&))
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">I work with Photoshop and GFX projects, as well as design work.</h3>
 
