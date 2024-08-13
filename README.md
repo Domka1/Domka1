@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/c6/ad/2e/c6ad2ec1fbc13a378d668b5c58a427ed.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">I work with Photoshop and GFX projects, as well as design work.</h3>
 
