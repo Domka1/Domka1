@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.discordapp.com/attachments/1210699240272297994/1272949019198492797/Computer_Code_GIF_-_Computer_Code_Decrypting_-_Discover__Share_GIFs.gif?ex=66bcd5a8&is=66bb8428&hm=4097fc947b67a20e9f1ed308508d54f362f2e8ed20a503707bd37febcfccb82c&))]
+[![MasterHead](https://cdn.discordapp.com/attachments/1210699240272297994/1272949019198492797/Computer_Code_GIF_-_Computer_Code_Decrypting_-_Discover__Share_GIFs.gif?ex=66bcd5a8&is=66bb8428&hm=4097fc947b67a20e9f1ed308508d54f362f2e8ed20a503707bd37febcfccb82c&)]
 <h1 align="center">Hi 👋, I'm Dominykas</h1>
 <h3 align="center">I work with Photoshop and GFX projects, as well as design work.</h3>
 
